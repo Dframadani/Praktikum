@@ -1,2 +1,2 @@
-# Dapaa
+# Praktikum
 Bismillah
